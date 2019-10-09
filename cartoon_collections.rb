@@ -2,7 +2,7 @@ def roll_call_dwarves(dwarf)# code an argument here
   # Your code here
   i = 0
   while i < dwarf.length
-  
+  puts ""
 end
 end
 
