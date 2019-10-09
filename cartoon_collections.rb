@@ -1,8 +1,8 @@
 def roll_call_dwarves(dwarf)# code an argument here
   # Your code here
   i = 0
-  dwarf.each_with_index do |dwarf, index|
-    puts "#{index}. #{dwarf}"
+  while i < dwarf.length
+  
 end
 end
 
